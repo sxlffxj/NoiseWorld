@@ -18,6 +18,7 @@ namespace NoiseWorldTest
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //测试
             xSceneControl1.InitializeDirect3D();
             xSceneControl1.Render();
         }
