@@ -1,0 +1,10 @@
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorldTest\bin\Debug\NoiseWorldTest.exe
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorldTest\bin\Debug\NoiseWorldTest.pdb
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorldTest\bin\Debug\NoiseWorld.dll
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorldTest\bin\Debug\NoiseWorld.pdb
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorldTest\obj\Debug\NoiseWorldTest.csprojResolveAssemblyReference.cache
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorldTest\obj\Debug\NoiseWorldTest.Form1.resources
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorldTest\obj\Debug\NoiseWorldTest.Properties.Resources.resources
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorldTest\obj\Debug\NoiseWorldTest.csproj.GenerateResource.Cache
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorldTest\obj\Debug\NoiseWorldTest.exe
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorldTest\obj\Debug\NoiseWorldTest.pdb

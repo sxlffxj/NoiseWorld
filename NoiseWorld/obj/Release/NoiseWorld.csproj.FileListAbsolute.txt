@@ -1,0 +1,5 @@
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorld\bin\Release\NoiseWorld.dll.config
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorld\bin\Release\NoiseWorld.dll
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorld\bin\Release\NoiseWorld.pdb
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorld\obj\Release\NoiseWorld.dll
+E:\WorkSpace\3DWorks\NoiseWorld\NoiseWorld\obj\Release\NoiseWorld.pdb
